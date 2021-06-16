@@ -1,0 +1,71 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin",
+      "role": "Admin"
+    },
+    {
+      "id": 1,
+      "username": "user",
+      "password": "user",
+      "role": "user"
+    },
+    {
+      "id": 2,
+      "username": "p89dominguez@gmail.com",
+      "password": "efshjht",
+      "role": "Usuario"
+    },
+    {
+      "id": 3,
+      "username": "inc@gointeraction.biz",
+      "password": "djrsghkyrk",
+      "role": "Usuario"
+    },
+    {
+      "id": 4,
+      "username": "pedroed",
+      "password": "lolo",
+      "role": "Admin"
+    },
+    {
+      "id": 5,
+      "username": "pedroedsgghj@drf.com",
+      "password": "sryi",
+      "role": "Admin"
+    },
+    {
+      "id": 6,
+      "username": "pedroed",
+      "password": "sryi",
+      "role": "Admin"
+    },
+    {
+      "id": 7,
+      "username": "pedroe88",
+      "password": "sryi",
+      "role": "Usuario"
+    },
+    {
+      "id": 8,
+      "username": "pedroe00",
+      "password": "sryi",
+      "role": "Usuario"
+    },
+    {
+      "id": 9,
+      "username": "Kaduo99",
+      "password": "drtjykul",
+      "role": "Usuario"
+    },
+    {
+      "id": 10,
+      "username": "p89dominguez@gmail.com",
+      "password": "ftukiotufdou",
+      "role": "Usuario"
+    }
+  ],
+  "products": []
+}
